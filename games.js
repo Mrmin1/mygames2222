@@ -7,4 +7,5 @@ window.USER_GAMES = [
 window.USER_GAMES = [
   {name:"MagicGarden", file:"magicgarden.html", desc:"Кликер"},
   {name:"Steam Case Simulator", file:"steam-case.html", desc:"Кейсы"},
+  {name:"Phonemerge", file:"phonemerge.html", desc:"Слияния"},
 ];
